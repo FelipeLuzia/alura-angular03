@@ -7,7 +7,7 @@ import {
 } from "@angular/forms";
 
 @Directive({
-  selector: "[maiorIdadeValidator]",
+  selector: "[maioridade]",
   providers: [
     {
       provide: NG_VALIDATORS,
